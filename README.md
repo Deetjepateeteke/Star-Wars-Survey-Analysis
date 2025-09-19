@@ -7,7 +7,7 @@ This projects is based on [Star Wars Survey Analysis by Dataquest](https://www.y
 ## Data
 
 The dataset used comes from [fivethirtyeight/star-wars-survey](https://github.com/fivethirtyeight/data/tree/master/star-wars-survey).
-It contains responses from 1181 participants about:
+It contains responses from 1187 participants about:
 
 - Favorite Star Wars movies
 - Favorite characters
@@ -15,6 +15,18 @@ It contains responses from 1181 participants about:
 
 ## Example Visualizations
 
+### Movie Ranking
+
 ![Favorite Movie Distribution by Gender](src/charts/avg_movie_ranking.png)
+
+### Percentage of Fans
+
 ![Percentage of Fans](src/charts/fans_percentage.png)
-![Character Popularity](src/charts/character_likeability.png)
+
+### Character Popularity
+
+![Character Popularity](src/charts/character_popularity.png)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
