@@ -19,17 +19,34 @@ It contains responses from 1187 participants about:
 
 ![Favorite Movie Distribution by Gender](src/figures/avg_movie_ranking.png)
 
-### Percentage of Fans
+After visualizing the data, we can see that both men and women have somewhat of the same opinion on the best Star Wars movies. We can also see that the original trilogy (Ep IV-VI) is more popular than the prequel trilogy (Ep I-III).
+
+### Relationship between Star Wars and Star Trek Fans
 
 ![Percentage of Fans](src/figures/fans_percentage.png)
+
+After analysis, we can see that almost every Star Trek fan is also a Star Wars fan.
 
 ### Character Popularity
 
 ![Character Popularity](src/figures/character_popularity.png)
 
+I mean, who likes Jar Jar Binks?
+
 ### Correlation of Character Popularity
 
 ![Correlation of Character Popularity](src/figures/character_popularity_correlation.png)
+
+By calculating the correlation of Star Wars characters, we can visually represent similar characters. The highest correlations between characters (as you can see on the right graph) were found to be:
+
+1. C-3PO & R2-D2
+2. Luke Skywalker & Princess Leia Organa
+3. Han Solo & Luke Skywalker
+4. Han Solo & Princess Leia Organa
+5. Luke Skywalker & Obi Wan Kenobi
+6. Darth Vader & Emperor Palpatine
+
+if you know something of Star Wars, you might have noticed that all these duos are linked in some way. And that's where this correlation comes from.
 
 ### Trilogy Preference
 
@@ -40,7 +57,6 @@ As you can see in the correlation matrix shown above, there is a clear correlati
 ![Trilogy Preference by Age](src/figures/trilogy_preference.png)
 
 Since there is a correlation between liking individual movies and the trilogy they're from, we can group the two trilogies together and find out if there is a trend in which demographic likes which trilogy. Apparently, older people (>60) are more of a fan of the prequel trilogy and younger people like the original trilogy more.
-
 
 ## License
 
