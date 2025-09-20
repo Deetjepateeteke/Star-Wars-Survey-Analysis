@@ -46,7 +46,7 @@ By calculating the correlation of Star Wars characters, we can visually represen
 5. Luke Skywalker & Obi Wan Kenobi
 6. Darth Vader & Emperor Palpatine
 
-if you know something of Star Wars, you might have noticed that all these duos are linked in some way. And that's where this correlation comes from.
+If you know something of Star Wars, you might have noticed that all these duos are canonically linked in some way. And that's where this correlation comes from.
 
 ### Trilogy Preference
 
@@ -56,7 +56,7 @@ As you can see in the correlation matrix shown above, there is a clear correlati
 
 ![Trilogy Preference by Age](src/figures/trilogy_preference.png)
 
-Since there is a correlation between liking individual movies and the trilogy they're from, we can group the two trilogies together and find out if there is a trend in which demographic likes which trilogy. Apparently, older people (>60) are more of a fan of the prequel trilogy and younger people like the original trilogy more.
+Since there is a correlation between liking individual movies and the trilogy they're from, we can group the two trilogies together and find out if there is a trend in which demographic likes which trilogy. The prequel trilogy tends to be more popular among older audiences (>60) and younger people tend to like the original trilogy more.
 
 ## License
 
