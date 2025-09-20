@@ -31,6 +31,17 @@ It contains responses from 1187 participants about:
 
 ![Correlation of Character Popularity](src/figures/character_popularity_correlation.png)
 
+### Trilogy Preference
+
+![Favorite Movie Correlation](src/figures/favorite_movie_correlation.png)
+
+As you can see in the correlation matrix shown above, there is a clear correlation between (dis)liking the first three movies and the last three movies. When someone likes a movie of the prequel trilogy (Ep I-III), the probability of that person liking other movies in the prequel trilogy is higher than the probability of that person liking a movie from the original trilogy (Ep IV-VI). This is of course also true for the other way around.
+
+![Trilogy Preference by Age](src/figures/trilogy_preference.png)
+
+Since there is a correlation between liking individual movies and the trilogy they're from, we can group the two trilogies together and find out if there is a trend in which demographic likes which trilogy. Apparently, older people (>60) are more of a fan of the prequel trilogy and younger people like the original trilogy more.
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
