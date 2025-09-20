@@ -13,7 +13,7 @@ It contains responses from 1187 participants about:
 - Favorite characters
 - Demographics (age, gender, location, etc.)
 
-## Example Visualizations
+## Analysis
 
 ### Movie Ranking
 
