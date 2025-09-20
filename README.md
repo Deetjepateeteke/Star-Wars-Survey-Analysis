@@ -17,15 +17,19 @@ It contains responses from 1187 participants about:
 
 ### Movie Ranking
 
-![Favorite Movie Distribution by Gender](src/charts/avg_movie_ranking.png)
+![Favorite Movie Distribution by Gender](src/figures/avg_movie_ranking.png)
 
 ### Percentage of Fans
 
-![Percentage of Fans](src/charts/fans_percentage.png)
+![Percentage of Fans](src/figures/fans_percentage.png)
 
 ### Character Popularity
 
-![Character Popularity](src/charts/character_popularity.png)
+![Character Popularity](src/figures/character_popularity.png)
+
+### Correlation of Character Popularity
+
+![Correlation of Character Popularity](src/figures/character_popularity_correlation.png)
 
 ## License
 
